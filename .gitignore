@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+rag-env/
+.venv/
+
+# Environment / secrets
+.env
+
+# ChromaDB vector store
+persist/
+
+# SQLite database (user data)
+chat_history.db
+
+# Streamlit local
+.streamlit/
+
+# System / editor
+*.swp
+*.swo
+*~
+.DS_Store
