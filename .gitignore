@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 *.pyo
+data/
+artifacts/
 
 # Virtual environments
 venv/
